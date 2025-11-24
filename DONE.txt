@@ -1,0 +1,3 @@
+Araf Latif
+1002125179
+Implemented lazy page allocation in xv6
